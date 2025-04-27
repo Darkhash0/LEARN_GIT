@@ -1,2 +1,1 @@
-This is file three.
-hello this something
+This is file three
